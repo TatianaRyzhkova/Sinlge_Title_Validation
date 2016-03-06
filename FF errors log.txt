@@ -1,0 +1,16 @@
+Selenium 1.1
+***********
+org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output: eAdvisor\\saffplg.xpi","e":false."v":"4.0.20","st":1451420416000}}}
+JavaScript error: file:///C:/Users/Lenovo/AppData/Local/Temp/anonymous209191286271587798webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-components.js, line 11487: TypeError: this.server_is undefined
+JavaScript error: chrome://fxdriver/content/server.js, line 38: NS_ERROR_XPC_CI_RETURNED_FAILURE: Component returned failure code: 0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE)[nsIJSCID.createInstance]
+Exception in thread "main" org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows:
+eAdvisor\\saffplg.xpi","e":false."v":"4.0.20","st":1451420416000}}}
+
+HtmlUnit  1.2
+**********
+Exception in thread main java.lang.error : Unresolved compilation problem: at core.HtmlUnit.main(HtmlUnit.java:6)
+
+
+
+Selenium  1.3
+*********
